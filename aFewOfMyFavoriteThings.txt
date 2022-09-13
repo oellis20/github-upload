@@ -1,0 +1,5 @@
+Color:
+Season:
+Vacation:
+Hobby:
+Food:
