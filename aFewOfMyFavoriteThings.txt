@@ -1,5 +1,5 @@
-Color:
-Season:
-Vacation:
-Hobby:
-Food:
+Color: Green
+Season: Summer
+Vacation: Beach
+Hobby: Music
+Food: Hash Browns
